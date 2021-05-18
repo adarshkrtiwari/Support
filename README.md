@@ -1,7 +1,3 @@
-# Support
-
-Raise an issue to get the invite to our community. 
-
 ## Who can join?
 
-Anyone interested to share, help, and ready to add value to the community. 
+Make your first contribution to the community to get the invite. Contributions like writing blog, help us build the website of the community, organize an event or give a talk.
